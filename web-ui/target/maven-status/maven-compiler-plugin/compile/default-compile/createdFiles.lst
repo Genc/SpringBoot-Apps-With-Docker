@@ -1,0 +1,6 @@
+com/faruk/webui/SampleWebUiApplication.class
+com/faruk/webui/InMemoryMessageRepository.class
+com/faruk/webui/MessageRepository.class
+com/faruk/webui/SampleWebUiApplication$1.class
+com/faruk/webui/mvc/MessageController.class
+com/faruk/webui/Message.class
